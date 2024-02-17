@@ -18,6 +18,8 @@ PostgreSQL
 
 ### Files
 
-x
+Final_SQL.sql: The sql file containing all of the queries I wrote to complete the project.  
+README.md: A file describing the details of the project.   
+Summary_Report.docx: A word document containing the details of the reports, possible business usages, and the SQL used to generate the reports. 
 
 
