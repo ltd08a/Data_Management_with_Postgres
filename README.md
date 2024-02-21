@@ -1,7 +1,7 @@
 # Data Management with Postgres
 
 ### Project Description
-The purpose of this project was to answer a business question for a dvd rental companythrough various methods in SQL database maniupulation. This project uses SQL to create a repeatable data export, import, and analysis for various stakeholders. A report is also created containing a detailed and summary version. 
+The purpose of this project was to answer a business question for a dvd rental company through various methods in SQL database manipulation. This project uses SQL to create a repeatable data export, import, and analysis for various stakeholders. A report is also created containing a detailed and summary version. 
 
 ### Environment(s)
 
